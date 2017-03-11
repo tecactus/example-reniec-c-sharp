@@ -1,0 +1,11 @@
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\bin\Debug\ReniecWindowsFormsApplication.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\bin\Debug\ReniecWindowsFormsApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\bin\Debug\ReniecWindowsFormsApplication.pdb
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\bin\Debug\RestSharp.dll
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\bin\Debug\RestSharp.xml
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.exe
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.pdb
+c:\users\paul\documents\visual studio 2015\Projects\ReniecWindowsFormsApplication\ReniecWindowsFormsApplication\obj\Debug\ReniecWindowsFormsApplication.Form1.resources
